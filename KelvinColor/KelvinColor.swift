@@ -14,7 +14,7 @@ public extension UIColor {
     /// Initialize color based on the Kelvin temperature
     ///
     /// - Parameter kelvin: color temperature in degrees Kelvin
-    public convenience init(temperature kelvin: Double) {
+    convenience init(temperature kelvin: Double) {
         let temperature = kelvin / 100.0
         var red, green, blue: Double
 
@@ -92,7 +92,7 @@ public extension UIColor {
         self.init(red: CGFloat(red / 255.0), green: CGFloat(green / 255.0), blue: CGFloat(blue / 255.0), alpha: 1)
     }
 
-    public var temperature: Double {
+    var temperature: Double {
         var temperature: Double = 0
         var testRGB: UIColor
         let epsilon: Double = 0.4
