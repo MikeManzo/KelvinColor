@@ -1,6 +1,6 @@
 # KelvinColor
 
-[![Language](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat)](https://swift.org)
+[![Language](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://swift.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 _Black body temperature to color in swift._
@@ -9,9 +9,9 @@ _Black body temperature to color in swift._
 
 ### Carthage
 
-Add the following in your project's  [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md):
+Add the following in your Swift 5.x project's  [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md):
 
-    github "DJBen/KelvinColor" ~> 0.1.0
+    github "MikeManzo/KelvinColor"
 
 ## Usage
 

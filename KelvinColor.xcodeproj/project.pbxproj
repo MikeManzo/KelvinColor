@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2773BA7B2333BF73002D6181 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2773BA7A2333BF73002D6181 /* README.md */; };
 		FC72C6A01F4EC70C00C4243D /* KelvinColor.h in Headers */ = {isa = PBXBuildFile; fileRef = FC72C69E1F4EC70C00C4243D /* KelvinColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC72C6A71F4EC7A100C4243D /* KelvinColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC72C6A61F4EC7A100C4243D /* KelvinColor.swift */; };
 		FC72C6AF1F4ECB6600C4243D /* KelvinColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC72C6AE1F4ECB6600C4243D /* KelvinColorTests.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2773BA7A2333BF73002D6181 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FC72C69B1F4EC70C00C4243D /* KelvinColor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KelvinColor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC72C69E1F4EC70C00C4243D /* KelvinColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KelvinColor.h; sourceTree = "<group>"; };
 		FC72C69F1F4EC70C00C4243D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		FC72C6911F4EC70C00C4243D = {
 			isa = PBXGroup;
 			children = (
+				2773BA7A2333BF73002D6181 /* README.md */,
 				FC72C69D1F4EC70C00C4243D /* KelvinColor */,
 				FC72C6AD1F4ECB6600C4243D /* KelvinColorTests */,
 				FC72C69C1F4EC70C00C4243D /* Products */,
@@ -186,6 +189,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2773BA7B2333BF73002D6181 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
