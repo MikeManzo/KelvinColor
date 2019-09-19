@@ -3,7 +3,8 @@
 [![Language](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://swift.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-_Black body temperature to color in swift._
+_Black body temperature to color in swift.  
+Updated for Swift 5.0.  Please find Sihao Lu's original version [here](https://github.com/DJBen/KelvinColor)_
 
 ## Installation
 
