@@ -1,7 +1,11 @@
 # KelvinColor
 
-[![Language](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://swift.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://travis-ci.org/MikeManzo/Ansi.svg?branch=master)](https://travis-ci.org/MikeManzo/KelvinColor)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mikemanzo/KelvinColor.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/MikeManzo/KelvinColor.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/MikeManzo/KelvinColor/total.svg)
+![Swift](https://img.shields.io/badge/%20in-swift%205.1-orange.svg)
+
 
 _Black body temperature to color in swift.  
 Updated for Swift 5.0.  Please find Sihao Lu's original version [here](https://github.com/DJBen/KelvinColor)_
